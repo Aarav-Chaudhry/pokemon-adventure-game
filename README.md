@@ -23,7 +23,7 @@ A text-based RPG featuring a 5x5 grid map, turn-based combat, and Pokemon captur
 - 7 unique Pokemon with varying stats and abilities
 - 25 distinct rooms across 4 room types
 - 3 rarity tiers affecting catch rates (70%/50%/30%)
-- ~550 lines of C++ code
+- 769 lines of C++ code
 
 ## 🚀 How to Run
 
